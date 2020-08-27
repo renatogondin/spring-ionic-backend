@@ -1,5 +1,4 @@
 # SpringBoot-Ionic-Backend
-# spring-boot-ionic-frontend
 <h1>Back-End</h1>
  <a href="https://medium.com/renato1902/spring-boot-and-ionic-online-store-app-b58e41cc07e0">Click here and check the Medium article</a> 
  <p>Complete Online Store with Spring.
